@@ -1,0 +1,12 @@
+print "Hello there! I am your personal Assistant for minor tasks."
+print "Type A for Google","B for Your calander", "and C for Tic-Tac-Toe!"
+response = int(raw_input())
+
+if response = A:
+  print "You have selected: Google"
+  
+if response == B:
+  print "You have selected: Calander"
+  
+if response == C:
+  print "You have selected: Tic-Tac-Toe"
